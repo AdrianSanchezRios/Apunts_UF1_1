@@ -1,7 +1,8 @@
 ELEMENTOS DEL DESARROLLO DE SOFTWARE
 ---
 
-###Ingeniería de Software
+Ingeniería de Software
+--
 ~~~
-sdds
+Se considera Ingeniería de Software
 ~~~
