@@ -8,8 +8,8 @@ ELEMENTOS DEL DESARROLLO DE SOFTWARE
 
 
 
-Ingeniería de Software
---
+### Ingeniería de Software
+---
 ~~~
 Se considera Ingeniería de Software la disciplina que estudia los principios y 
 metodologías para el desarrollo y mantenimiento de sistemas software.
@@ -21,3 +21,16 @@ estudio de la ingeniería de software.
 ~~~
 
 ![N](https://www.queestudiar.org/wp-content/uploads/2017/10/software-750x350.jpg)
+
+### Desarrollo de Software
+----
+Diferentes tipos de desarrollo de software:
+- Análisis
+- Diseño
+- Codificación
+- Pruebas
+- Mantenimiento
+
+#### Análisis
+
+---
